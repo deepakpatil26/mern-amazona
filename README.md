@@ -69,3 +69,26 @@
     1. click handler for inc/dec item
     2. click handler for remove item
     3. click handler for checkout
+18. Create SignIn Screen
+    1. create sign in form
+    2. add email and password
+    3. add signin button
+19. Connect to MongoDB Database
+    1. create atlas mongodb database
+    2. install atlas mongodb database
+    3. npm install mongoose
+    4. connect to mongodb database
+20. Seed Sample Data
+    1. create Product model
+    2. create User model
+    3. create seed route
+    4. use route in server.js
+    5. seed sample product
+21. Seed Sample Users
+    1. create user model
+    2. seed sample users
+    3. create user routes
+22. Create Signin Backend API
+    1. create signin api
+    2. npm install jsonwebtoken
+    3. define generateToken
